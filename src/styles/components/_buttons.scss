@@ -1,0 +1,31 @@
+.icon {
+  color: #4F4CCF;
+  margin: 10px;
+
+  .icon-user:before {
+    content: "\e900";
+  }
+
+  .icon-settings:before {
+    content: "\e901";
+  }
+
+  .icon-trash-2:before {
+    content: "\e902";
+  }
+
+  .icon-edit-2:before {
+    content: "\e903";
+  }
+
+  .icon-check-circle:before {
+    content: "\e904";
+  }
+}
+
+.navbar-buttons {
+  background-color: #f5f5f5;
+  padding: 5px;
+  border: 2px solid #D7D7D7;
+  border-radius: 5px;
+}
